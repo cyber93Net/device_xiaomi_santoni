@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_santoni.mk
+    $(LOCAL_DIR)/freaky_santoni.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_santoni-userdebug \
-    havoc_santoni-user \
-    havoc_santoni-eng
+    freaky_santoni-userdebug \
+    freaky_santoni-user \
+    freaky_santoni-eng
